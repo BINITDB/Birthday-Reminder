@@ -1,3 +1,7 @@
+#UI screesnhot
+![birthday1](https://user-images.githubusercontent.com/71452436/164172230-23707771-ada9-42db-9267-d075bdde2a94.png)
+![birthday2](https://user-images.githubusercontent.com/71452436/164172244-88fa238f-0a77-46de-b79c-c2afb78347d8.png)
+
 
 # Getting Started with Create React App
 
